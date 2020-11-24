@@ -1,19 +1,19 @@
 def addition(num1, num2)
   sum = num1 + num2
-  puts sum
+  p sum
   end
   
 addition(5,4)
 
 def subtraction(num1, num2)
   sum = num1 - num2
-  puts sum
+  p sum
   end
   
   subtraction(10,5)
 
 def division(num1, num2)
-  sum = num1 * num2
+  sum = num1 / num2
   p sum
   end
   
