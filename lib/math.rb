@@ -2,11 +2,15 @@ def addition(num1, num2)
   sum = num1 + num2
   puts sum
   end
+  
+addition(5,4)
 
 def subtraction(num1, num2)
   sum = num1 - num2
   puts sum
   end
+  
+  
 
 def division(num1, num2)
   sum = num1 * num2
