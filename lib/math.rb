@@ -28,7 +28,7 @@ multiplication(4,30)
 
 def modulo(num1, num2)
   sum = num1 % num2
-  print sum
+  p sum
   end
   
   modulo(34,5)
